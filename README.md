@@ -1,6 +1,5 @@
 # Klpbbs-Wiki(新的苦力怕论坛Wiki项目)
-这是苦力怕论坛Wiki的自述文件.<br>
-# 加入Wiki
+## 加入Wiki
 想加入苦力怕论坛Wiki的编辑吗？<br>
 您可以向邮箱qiufengluoyes@outlook.com发送一封申请邮件，内容如下：<br>
 **主题**：申请加入苦力怕论坛Wiki<br>
