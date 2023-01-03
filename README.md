@@ -1,7 +1,7 @@
 # Klpbbs-Wiki(新的苦力怕论坛Wiki项目)
 Wiki地址：https://github.com/Qiufengluoyes/Klpbbs-Wiki/wiki<br>
 Wiki社区：https://github.com/Qiufengluoyes/Klpbbs-Wiki/discussions<br>
-**⚠注意：本Wiki和社区正在处于测试阶段，**
+**⚠注意：本Wiki和社区正在处于测试阶段，当前展示的效果仅供参考，不代表最终品质.**
 # 加入Wiki
 想加入苦力怕论坛Wiki的编辑吗？<br>
 您可以向邮箱grovecxk@outlook.com发送一封申请邮件，内容如下：<br>
